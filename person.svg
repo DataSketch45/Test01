@@ -1,7 +1,22 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<!-- Uploaded to: SVG Repo, www.svgrepo.com, Transformed by: SVG Repo Mixer Tools -->
 <svg width="124px" height="124px" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g id="SVGRepo_bgCarrier" stroke-width="0"/>
-<g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"/>
-<g id="SVGRepo_iconCarrier"> <path fill-rule="evenodd" clip-rule="evenodd" d="M16 8C16 12.4183 12.4183 16 8 16C3.58172 16 0 12.4183 0 8C0 3.58172 3.58172 0 8 0C12.4183 0 16 3.58172 16 8ZM9.25 3.75C9.25 4.44036 8.69036 5 8 5C7.30964 5 6.75 4.44036 6.75 3.75C6.75 3.05964 7.30964 2.5 8 2.5C8.69036 2.5 9.25 3.05964 9.25 3.75ZM12 8H9.41901L11.2047 13H9.081L8 9.97321L6.91901 13H4.79528L6.581 8H4V6H12V8Z" fill="#000000"/> </g>
-</svg>
+  <symbol id="rd-icon-spotter" viewBox="0 0 48 48" fill="black">
+    <circle cx="24" cy="24" r="10" fill="yellow"/>
+    <g stroke="orange" stroke-width="2">
+      <line x1="24" y1="2" x2="24" y2="12"/>
+      <line x1="24" y1="36" x2="24" y2="46"/>
+      <line x1="2" y1="24" x2="12" y2="24"/>
+      <line x1="36" y1="24" x2="46" y2="24"/>
+      <line x1="9.22" y1="9.22" x2="16.97" y2="16.97"/>
+      <line x1="31.03" y1="31.03" x2="38.78" y2="38.78"/>
+      <line x1="9.22" y1="38.78" x2="16.97" y2="31.03"/>
+      <line x1="31.03" y1="16.97" x2="38.78" y2="9.22"/>
+    </g>
+  </symbol>
+  <g id="SVGRepo_bgCarrier" stroke-width="0"/>
+  <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"/>
+  <g id="SVGRepo_iconCarrier">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M16 8C16 12.4183 12.4183 16 8 16C3.58172 16 0 12.4183 0 8C0 3.58172 3.58172 0 8 0C12.4183 0 16 3.58172 16 8ZM9.25 3.75C9.25 4.44036 8.69036 5 8 5C7.30964 5 6.75 4.44036 6.75 3.75C6.75 3.05964 7.30964 2.5 8 2.5C8.69036 2.5 9.25 3.05964 9.25 3.75ZM12 8H9.41901L11.2047 13H9.081L8 9.97321L6.91901 13H4.79528L6.581 8H4V6H12V8Z" fill="#000000"/>
+  </g>
+  <use href="#rd-icon-spotter" x="0" y="0" width="16" height="16"/>
+</svg>
