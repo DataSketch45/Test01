@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
   
   <!-- Custom Spotter icon -->
-  <symbol id="rd-icon-spotter" viewBox="0 0 2048 2048">
+  <symbol id="rd-icon-spotter" viewBox="0 0 24 24">
     <circle cx="24" cy="24" r="10" fill="currentColor"/>
     <g stroke="currentColor" stroke-width="2" fill="none">
       <line x1="24" y1="2" x2="24" y2="12"/>
