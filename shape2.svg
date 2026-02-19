@@ -6,7 +6,7 @@
     <path d="M31.5,14.6l2.6-2.5a1.8,1.8,0,0,0,0-2.2,1.8,1.8,0,0,0-2.2,0l-3.4,3.5v5.2l4,4v2.8l-4,4v5.2l3.4,3.5a1.7,1.7,0,0,0,2.2,0,1.8,1.8,0,0,0,0-2.2l-2.6-2.5V30.6l4-4V21.4l-4-4Z"/>
   </symbol>
 
-  <symbol id="rd-icon-thoughtspot" viewBox="0 0 48 48">
+    <symbol id="rd-icon-thoughtspot" viewBox="0 0 24 24">
     <circle cx="24" cy="24" r="10" fill="currentColor"/>
     <g stroke="currentColor" stroke-width="2" fill="none">
       <line x1="24" y1="2" x2="24" y2="12"/>
